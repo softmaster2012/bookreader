@@ -1,0 +1,54 @@
+C:\Users\student\Downloads\BookOffice1\BookOffice1\bin\Debug\BookOffice1.exe.config
+C:\Users\student\Downloads\BookOffice1\BookOffice1\bin\Debug\BookOffice1.exe
+C:\Users\student\Downloads\BookOffice1\BookOffice1\bin\Debug\BookOffice1.pdb
+C:\Users\student\Downloads\BookOffice1\BookOffice1\obj\Debug\BookOffice1.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\BookOffice1\BookOffice1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Downloads\BookOffice1\BookOffice1\obj\Debug\App.g.cs
+C:\Users\student\Downloads\BookOffice1\BookOffice1\obj\Debug\BookOffice1_MarkupCompile.cache
+C:\Users\student\Downloads\BookOffice1\BookOffice1\obj\Debug\BookOffice1_MarkupCompile.lref
+C:\Users\student\Downloads\BookOffice1\BookOffice1\obj\Debug\MainWindow.baml
+C:\Users\student\Downloads\BookOffice1\BookOffice1\obj\Debug\BookOffice1.g.resources
+C:\Users\student\Downloads\BookOffice1\BookOffice1\obj\Debug\BookOffice1.Properties.Resources.resources
+C:\Users\student\Downloads\BookOffice1\BookOffice1\obj\Debug\BookOffice1.csproj.GenerateResource.Cache
+C:\Users\student\Downloads\BookOffice1\BookOffice1\obj\Debug\BookOffice1.exe
+C:\Users\student\Downloads\BookOffice1\BookOffice1\obj\Debug\BookOffice1.pdb
+C:\Users\student\Downloads\BookOffice1\BookOffice1\obj\Debug\App.baml
+C:\Users\student\Downloads\BookOffice1\BookOffice1\obj\Debug\Dictionary1.baml
+C:\Users\student\Downloads\BookOffice1\BookOffice1\obj\Debug\Dictionary2.baml
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\bin\Debug\BookOffice1.exe.config
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\bin\Debug\BookOffice1.exe
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\bin\Debug\BookOffice1.pdb
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\App.g.cs
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1_MarkupCompile.cache
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1_MarkupCompile.lref
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\App.baml
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\Dictionary1.baml
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\Dictionary2.baml
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\MainWindow.baml
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1.g.resources
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1.Properties.Resources.resources
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1.csproj.GenerateResource.cache
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1.exe
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1.pdb
+C:\Users\Vladimir and Olga\Downloads\BookOffice2\BookOffice1\bin\Debug\Data\Book1\Pages\100.xaml
+C:\Users\student\Downloads\BookOffice2\BookOffice1\bin\Debug\BookOffice1.exe.config
+C:\Users\student\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1.exe
+C:\Users\student\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1.pdb
+C:\Users\student\Downloads\BookOffice2\BookOffice1\bin\Debug\Data\Book1\Pages\100.xaml
+C:\Users\student\Downloads\BookOffice2\BookOffice1\bin\Debug\BookOffice1.exe
+C:\Users\student\Downloads\BookOffice2\BookOffice1\bin\Debug\BookOffice1.pdb
+C:\Users\student\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\BookOffice2\BookOffice1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Downloads\BookOffice2\BookOffice1\obj\Debug\App.g.cs
+C:\Users\student\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1_MarkupCompile.cache
+C:\Users\student\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1_MarkupCompile.lref
+C:\Users\student\Downloads\BookOffice2\BookOffice1\obj\Debug\App.baml
+C:\Users\student\Downloads\BookOffice2\BookOffice1\obj\Debug\Dictionary1.baml
+C:\Users\student\Downloads\BookOffice2\BookOffice1\obj\Debug\Dictionary2.baml
+C:\Users\student\Downloads\BookOffice2\BookOffice1\obj\Debug\MainWindow.baml
+C:\Users\student\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1.g.resources
+C:\Users\student\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1.Properties.Resources.resources
+C:\Users\student\Downloads\BookOffice2\BookOffice1\obj\Debug\BookOffice1.csproj.GenerateResource.Cache

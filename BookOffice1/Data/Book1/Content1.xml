@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<book id="0" title="Руководство по WPF" image="Images/icon31.ico">
+  <node id="100" title="Введение в технологию WPF" image="Images/icon11.ico">
+    <node id="101" title="История WPF" image="Images/icon12.ico" />
+    <node id="102" title="Возможности WPF" image="Images/icon12.ico" />
+    <node id="103" title="Перспективы WPF" image="Images/icon12.ico" />
+  </node>
+  <node id="200" title="Контейнеры компоновки WPF" image="Images/icon11.ico"></node>
+  <node id="300" title="Базовые элементы управления" image="Images/icon11.ico"></node>
+  <node id="400" title="Списочные элементы управления" image="Images/icon11.ico"></node>
+  <node id="500" title="Составные элементы управления" image="Images/icon11.ico"></node>
+</book>

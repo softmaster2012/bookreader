@@ -1,0 +1,6 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:BookOffice1">
+    <XmlDataProvider x:Key="book1" Source="Data/Book1/Content1.xml"/>
+    <XmlDataProvider x:Key="book2" Source="Data/Book2/Content2.xml"/>
+</ResourceDictionary>
